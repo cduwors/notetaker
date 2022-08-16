@@ -2,9 +2,9 @@ const fs = require("fs");
 
 const router = require("express").Router();
 // Helper method for generating unique ids
-const uuid = require("./helpers/uuid");
+const uuid = require("../helpers/uuid");
 
-const { notes } = require("./data/db");
+const { notes } = require("../data/db");
 
 router.get("/api/notes", (req, res) => {
 	let results = notes;
