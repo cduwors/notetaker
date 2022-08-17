@@ -40,4 +40,4 @@ See more details at https://www.github.com/cduwors or contact christinaduwors@gm
 
 ## Screenshot
 
-<img src= "./img/team-profile.png"/>
+<img src= "./img/notetaker.png"/>
